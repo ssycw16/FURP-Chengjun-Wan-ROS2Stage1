@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ROS 2 workspace artifacts
+install/
+log/
+*.bag.active
+*.ros
